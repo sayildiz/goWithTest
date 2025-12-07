@@ -1,4 +1,4 @@
-package sum
+package arraysNslices
 
 func Sum(numbers []int) int {
 	sum := 0
