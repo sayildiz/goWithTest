@@ -5,4 +5,5 @@ go 1.25.4
 require (
 	github.com/approvals/go-approval-tests v1.6.2 // indirect
 	github.com/gomarkdown/markdown v0.0.0-20250810172220-2e2c11897d1a // indirect
+	github.com/quii/go-graceful-shutdown v0.6.0 // indirect
 )
